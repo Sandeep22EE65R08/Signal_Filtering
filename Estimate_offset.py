@@ -114,7 +114,7 @@ class DroneSignalProcessor:
 
 # Example Usage
 if __name__ == "__main__":
-    file_path = '/home/kamlesh_bbbs/BBBS/GitHub_collabration_workspace/Drone_detection_optimized_code/netra_50msps.dat'
+    file_path = '/home/sandeep_bbbs/BBBS/GitHub_collabration_workspace/Drone_detection_optimized_code/netra_50msps.dat'
     sampling_rate = 50e6
     resample_rate = 11e6
 
